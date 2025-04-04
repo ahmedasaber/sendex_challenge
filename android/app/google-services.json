@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603773085677",
+    "project_id": "test-89cc4",
+    "storage_bucket": "test-89cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603773085677:android:d2d0ea888f02dfc1b929e4",
+        "android_client_info": {
+          "package_name": "com.example.sendex_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqpXL5ZLcWZ_yibeA1koEXdgDEfTOKoHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
