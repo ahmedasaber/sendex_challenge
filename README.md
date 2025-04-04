@@ -9,9 +9,9 @@ A new challenge project.
 - HTTP for API requests
 
 ## 💻 Screens
-| Image 1                                                                                                                      | Image 2                                                                                                                     | Image 3                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| ![Login](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.27_3f27605d.jpg) | ![Home](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.28_cc5e7190.jpg) | ![Details](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.27_c0ca9a0d.jpg) |
+| Login                                                                                                                   | Home                                                                                                                    | Details                                                                                                                 |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| ![](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.27_3f27605d.jpg) | ![](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.28_cc5e7190.jpg) | ![](https://github.com/ahmedasaber/activationCode/blob/main/WhatsApp%20Image%202025-04-04%20at%2018.48.27_c0ca9a0d.jpg) |
 
 
 
